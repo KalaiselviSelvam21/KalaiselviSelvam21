@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kalaiselvi Selvam</h1>
 <h3 align="center">Mastering the Art of AI: A Journey of an ML Enthusiast</h3>
 
-
+![image](https://github.com/KalaiselviSelvam21/KalaiselviSelvam21/blob/9c0b5d8da36158fcb6fa11c1196b0f10e39ed51b/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg)
 <p><b>Hello everyone,</b>
-
+<br>
 Welcome! I am a third-year engineering student pursuing a degree in Computer Science and Business Systems.
 
 💡 AI/ML: My Boundless Interest:
@@ -30,7 +30,7 @@ Engineering is not just a profession for me; it is a pathway to making a positiv
 Feel free to reach out to me for networking, project collaborations, or engaging discussions. I am excited to learn from you and contribute to the vibrant community of tech enthusiasts.
 
 Thank you for visiting my profile, and I look forward to connecting with you!</p>
-
+<img align="right" height=200px src="https://github.com/KalaiselviSelvam21/KalaiselviSelvam21/blob/9c0b5d8da36158fcb6fa11c1196b0f10e39ed51b/Custom-ChatGPT-Web-Apps-and-Mobile-Applications.gif">
 
 
 - 🌱 I’m currently learning **Data analytics**
