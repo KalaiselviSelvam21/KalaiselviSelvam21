@@ -30,7 +30,7 @@ Engineering is not just a profession for me; it is a pathway to making a positiv
 Feel free to reach out to me for networking, project collaborations, or engaging discussions. I am excited to learn from you and contribute to the vibrant community of tech enthusiasts.
 
 Thank you for visiting my profile, and I look forward to connecting with you!</p>
-<img align="right" height=200px src="https://github.com/KalaiselviSelvam21/KalaiselviSelvam21/blob/9c0b5d8da36158fcb6fa11c1196b0f10e39ed51b/Custom-ChatGPT-Web-Apps-and-Mobile-Applications.gif">
+<img align="right" height=300px src="https://github.com/KalaiselviSelvam21/KalaiselviSelvam21/blob/0ec154b743a090afe0dc7b554cda02df8d28131b/12eca-machine-learning.gif">
 
 
 - 🌱 I’m currently learning **Data analytics**
