@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kalaiselvi Selvam</h1>
 <h3 align="center">Mastering the Art of AI: A Journey of an ML Enthusiast</h3>
 
-![image](https://github.com/KalaiselviSelvam21/KalaiselviSelvam21/blob/9c0b5d8da36158fcb6fa11c1196b0f10e39ed51b/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg)
 <p><b>Hello everyone,</b>
 <br>
 Welcome! I am a third-year engineering student pursuing a degree in Computer Science and Business Systems.
-
-💡 AI/ML: My Boundless Interest:
-I am deeply passionate about exploring the potential of AI/ML to address real-world challenges and drive innovation across industries.
 
 🧠 A Knack for Problem-Solving:
 I thrive on tackling complex issues and finding creative solutions. Whether it's coding challenges or system optimizations, I relish every opportunity to put my skills to the test.
