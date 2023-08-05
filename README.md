@@ -2,12 +2,6 @@
 
 
 
-
-
-
-
-
-
 - 🌱 I’m currently learning **Frontend**
 
 - 📝 I regularly write articles on [https://medium.com/@kalaiaravinth5555](https://medium.com/@kalaiaravinth5555)
