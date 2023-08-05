@@ -1,39 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kalaiselvi Selvam</h1>
-<h3 align="center">Mastering the Art of AI: A Journey of an ML Enthusiast</h3>
-
-<p><b>Hello everyone,</b>
-<br>
-Welcome! I am a third-year engineering student pursuing a degree in Computer Science and Business Systems.
-
-🧠 A Knack for Problem-Solving:
-I thrive on tackling complex issues and finding creative solutions. Whether it's coding challenges or system optimizations, I relish every opportunity to put my skills to the test.
-
-➕ Mathematics: My Source of Inspiration:
-Mathematics serves as the foundation for my technological pursuits. The elegance and logic in mathematics inspire me to build intelligent systems and unlock data patterns.
-
-📝 Blogging: Sharing My Knowledge:
-As a tech enthusiast, I actively write blogs on AI/ML, problem-solving methodologies, and the fusion of technology and business.
-
-📚 Published IEEE Paper:
-I take immense pride in having published an IEEE paper, delving deeper into cutting-edge research and expanding my understanding of advanced technologies.
-
-🏆 Thriving in Competitions:
-I have actively participated in numerous events at various colleges, showcasing my skills through paper presentations, technical quizzes, and more. I was thrilled to secure the first prize in the PyExpo event, a hackathon held as part of an inter-college event.
-
-🔧 Engineering: A Profession with Purpose:
-Engineering is not just a profession for me; it is a pathway to making a positive impact through technology.
-
-Feel free to reach out to me for networking, project collaborations, or engaging discussions. I am excited to learn from you and contribute to the vibrant community of tech enthusiasts.
-
-Thank you for visiting my profile, and I look forward to connecting with you!</p>
-<img align="right" height=300px src="https://github.com/KalaiselviSelvam21/KalaiselviSelvam21/blob/0ec154b743a090afe0dc7b554cda02df8d28131b/12eca-machine-learning.gif">
 
 
-- 🌱 I’m currently learning **Data analytics**
+
+
+
+
+
+
+
+- 🌱 I’m currently learning **Frontend**
 
 - 📝 I regularly write articles on [https://medium.com/@kalaiaravinth5555](https://medium.com/@kalaiaravinth5555)
 
-- 💬 Ask me about **AI/ML ,Python,SQL**
+- 💬 Ask me about **HTML,CSS ,Python,**
 
 - 📫 How to reach me **kalaiaravinth5555@gmail.com**<br><br>
 
