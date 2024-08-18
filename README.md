@@ -1,5 +1,8 @@
-# 💫 About Me:
-<br><br>- **Currently Working on:** Ischemic Brain Stroke Prediction (CNN, GBM) 🧠🔬<br>- **Eager to Collaborate on:** Web Development 🌐, AI/ML Innovations 🤖, Open Source Projects 🌟<br>- **Seeking Guidance with:** Advanced ML algorithms 📊, AI model optimization ⚙️<br>- **Currently Delving Into:** Full-stack Development 💻, advanced ML 📈, software practices 📚<br>- **Curious About Me?** Websites to AI solutions 🌍➡️🤖<br>- **Fun Tidbit:** Tech meets creativity—virtual mouse 🖱️, sign language interpreter 👐<br>- **Soft Skills:** Time Management ⏳, Self-Motivation 💪, Leadership 👩‍💼, Communication 🗣️<br>
+<h1 align="center">Hi 👋, I'm Kalaiselvi Selvam</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiselviselvam21&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiselviselvam21" /> </p>
+
+## 💫 About Me:
+<br>- **Currently Working on:** Ischemic Brain Stroke Prediction (CNN, GBM) 🧠🔬<br>- **Eager to Collaborate on:** Web Development 🌐, AI/ML Innovations 🤖, Open Source Projects 🌟<br>- **Seeking Guidance with:** Advanced ML algorithms 📊, AI model optimization ⚙️<br>- **Currently Delving Into:** Full-stack Development 💻, advanced ML 📈, software practices 📚<br>- **Curious About Me?** Websites to AI solutions 🌍➡️🤖<br>- **Fun Tidbit:** Tech meets creativity—virtual mouse 🖱️, sign language interpreter 👐<br>- **Soft Skills:** Time Management ⏳, Self-Motivation 💪, Leadership 👩‍💼, Communication 🗣️<br>
 
 
 ## 🌐 Socials:
