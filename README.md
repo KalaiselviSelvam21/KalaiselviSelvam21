@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalaiselvi Selvam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiselviselvam21&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiselviselvam21" /> </p>
 
+<!--<h3 align="center">Frontend Developer|AI/ML Enthusiast|DSA</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiselviselvam21&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiselviselvam21" /> </p>-->
 
 <h3 align="left">💫 About Me:</h3>
 
