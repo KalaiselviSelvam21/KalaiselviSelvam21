@@ -7,7 +7,7 @@
 
 - 📝 I eagerly to collaborate on:**Web Development 🌐, AI/ML Innovations 🤖, Open Source Projects 🌟**
 
-- 📫 Seeking Guidance with ** Advanced ML algorithms 📊, AI model optimization ⚙️**
+- 📫 Seeking Guidance with **Advanced ML algorithms 📊, AI model optimization ⚙️**
 - 🌱 I’m delving Into **Full-stack Development 💻, advanced ML 📈, software practices 📚**
 
 - 🤔 Curious About Me? **Websites to AI solutions 🌍➡️🤖**
