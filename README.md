@@ -2,10 +2,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaiselviselvam21&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiselviselvam21" /> </p>
 
 ## 💫 About Me:
-<br>- **Currently Working on:** Ischemic Brain Stroke Prediction (CNN, GBM) 🧠🔬<br>- **Eager to Collaborate on:** Web Development 🌐, AI/ML Innovations 🤖, Open Source Projects 🌟<br>- **Seeking Guidance with:** Advanced ML algorithms 📊, AI model optimization ⚙️<br>- **Currently Delving Into:** Full-stack Development 💻, advanced ML 📈, software practices 📚<br>- **Curious About Me?** Websites to AI solutions 🌍➡️🤖<br>- **Fun Tidbit:** Tech meets creativity—virtual mouse 🖱️, sign language interpreter 👐<br>- **Soft Skills:** Time Management ⏳, Self-Motivation 💪, Leadership 👩‍💼, Communication 🗣️<br>
 
+- 🌱 I’m currently working on project **Ischemic Brain Stroke Prediction (CNN, GBM)🧠🔬**
 
+- 📝 I eagerly to collaborate on:**Web Development 🌐, AI/ML Innovations 🤖, Open Source Projects 🌟**
+
+- 📫 Seeking Guidance with ** Advanced ML algorithms 📊, AI model optimization ⚙️**
+- 🌱 I’m delving Into **Full-stack Development 💻, advanced ML 📈, software practices 📚**
+
+- 🤔 Curious About Me? **Websites to AI solutions 🌍➡️🤖**
+
+-  🤖💻 Fun Tidbit:  **Tech meets creativity—virtual mouse 🖱️, sign language interpreter 👐**
+- 🌱🗣️ Soft Skills **Time Management ⏳, Self-Motivation 💪, Leadership 👩‍💼, Communication 🗣️**
+- 📫 How to reach me **kalaiaravinth5555@gmail.com**
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/izel._diaries/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalaiselvi-selvam-513256255/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@kalaiaravinth5555) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/its_me_lily_21) 
 
 # 💻 Tech Stack:
