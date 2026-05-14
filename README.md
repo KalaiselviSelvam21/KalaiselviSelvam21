@@ -41,9 +41,6 @@ Responsive portfolio website showcasing projects, technical skills, certificatio
 
 Developed a responsive cafeteria web application using HTML, CSS, and JavaScript with interactive UI and dynamic menu rendering.
 
-### 💬 Real-Time WebSocket Chat Application
-
-Built a real-time chat application using Flask and WebSocket communication supporting instant messaging functionality.
 
 ### 🧠 Ischemic Stroke Detection System
 
