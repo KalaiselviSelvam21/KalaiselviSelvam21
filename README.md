@@ -222,21 +222,20 @@ Created using Django, Python, MySQL, HTML, CSS, and JavaScript with:
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KalaiselviSelvam21&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalaiselviSelvam21&theme=tokyonight&hide_border=true" height="180em"/>
+
+<img 
+src="https://streak-stats.demolab.com?user=KalaiselviSelvam21&theme=tokyonight&hide_border=true" 
+height="180em" 
+/>
 
 </p>
-
----
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalaiselviSelvam21&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </p>
-
----
 
 # 📈 CONTRIBUTION GRAPH
 
