@@ -178,18 +178,6 @@ Created using Django, Python, MySQL, HTML, CSS, and JavaScript with:
 </table>
 
 
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-
-<img 
-src="https://streak-stats.demolab.com?user=KalaiselviSelvam21&theme=tokyonight&hide_border=true" 
-height="180em" 
-/>
-
-</p>
-
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
