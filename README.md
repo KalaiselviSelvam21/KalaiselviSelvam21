@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI%2FML+Enthusiast;Django+Developer;Building+Scalable+Applications"/>
 </p>
 
----
 
 <h1 align="center">Hi 👋, I'm Kalaiselvi Selvam</h1>
 
@@ -36,7 +35,6 @@ Full Stack Developer | Python Developer | AI/ML Enthusiast
   </a>
 </p>
 
----
 
 # ⚡ SYSTEM PROFILE
 
@@ -71,7 +69,6 @@ philosophy:
   - Learn continuously
 ```
 
----
 
 # 💫 ABOUT ME
 
@@ -82,57 +79,21 @@ philosophy:
 - 🛠 Skilled in responsive UI design, backend integration, debugging, and software testing
 - 📚 Continuously learning and building projects to improve development skills
 
----
 
 # ⚔ TECH STACK
 
-## 🚀 Languages
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp"/>
-</p>
-
----
-
-## 🌐 Web Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django"/>
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
----
-
-## 🤖 AI/ML & Data Science
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,bootstrap,django,mysql,sqlite,tensorflow,git,github,aws"/>
 </p>
 
 <p align="center">
-  OpenCV • Pandas • NumPy • Matplotlib
+  <b>Languages:</b> Python • JavaScript • C++<br/>
+  <b>Web Technologies:</b> HTML • CSS • Bootstrap • Django<br/>
+  <b>Databases:</b> MySQL • SQLite<br/>
+  <b>AI/ML & Data Science:</b> TensorFlow • OpenCV • Pandas • NumPy • Matplotlib<br/>
+  <b>Tools & Platforms:</b> Git • GitHub • AWS • Jira • Canva
 </p>
 
----
-
-## 🛠 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws"/>
-</p>
-
-<p align="center">
-  Jira • Canva
-</p>
-
----
 
 # 🚀 FEATURED PROJECTS
 
@@ -216,12 +177,10 @@ Created using Django, Python, MySQL, HTML, CSS, and JavaScript with:
 
 </table>
 
----
 
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-
 
 
 <img 
@@ -231,19 +190,12 @@ height="180em"
 
 </p>
 
-<p align="center">
-
-
-
-</p>
-
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalaiselviSelvam21&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
 # 🏆 ACHIEVEMENTS
 
@@ -252,7 +204,6 @@ height="180em"
 - 🧠 Winner of PYExpo Hackathon for Sign Language Detection Project
 - 📄 Published IEEE papers in AI and Computer Science conferences
 
----
 
 # 🧠 CURRENT FOCUS
 
@@ -265,31 +216,6 @@ height="180em"
 ✓ Real-Time Applications
 ```
 
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="mailto:kalaiaravinth5555@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kalaiaravinth5555%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/kalaiselvi-selvam-513256255">
-  <img src="https://img.shields.io/badge/LinkedIn-Kalaiselvi%20Selvam-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br><br>
-
-<a href="https://kalaiselvi-fullstack-developer.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
 
 # ⚡ ENGINEERING MINDSET
 
@@ -301,7 +227,6 @@ height="180em"
 | UI/UX | Better user experience |
 | Learning | Continuous improvement |
 
----
 
 # 👀 PROFILE VIEWS
 
@@ -309,7 +234,6 @@ height="180em"
   <img src="https://komarev.com/ghpvc/?username=KalaiselviSelvam21&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
----
 
 # 🚀 FINAL MESSAGE
 
@@ -323,7 +247,6 @@ and creating scalable real-world solutions.
 
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0B0F19&height=120&section=footer"/>
